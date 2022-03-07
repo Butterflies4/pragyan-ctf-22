@@ -3,7 +3,7 @@
 > After Ross sends marcel away, marcel is angry with his new master Steve. One day he steals Steve's one and only ONE iPAD, clicks a photo and hides it somewhere. Being a smart capuchin, he hides a hint in the image he clicks, can you help Steve find the hint.                   
 > Flag format - p_ctf{hint}
 
-File
+File [marcel.png](https://github.com/Butterflies4/pragyan-ctf-22/edit/main/Forensics/Marcel%20and%20the%20iPad/marcel.png)
 ## Solution
 Sử dụng `exiftool` ta được
 ```
