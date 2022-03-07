@@ -2,7 +2,7 @@
 ## Description
 > An unknown visitor is approaching your ship. All you have is this image clue and your wits to identify the flag which will reveal their identity.
 
-File
+File [image.png](https://github.com/Butterflies4/pragyan-ctf-22/edit/main/Forensics/Hidden%20and%20Protected/image.png)
 
 ## Solution
 Sử dụng binwalk để kiểm tra xem có file nào được nén hay không, thì ta thấy có 2 file zip bên trong           
