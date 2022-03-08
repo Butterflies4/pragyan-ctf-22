@@ -19,7 +19,7 @@ done
 ```
 Thực thi đoạn code, ta được       
 ![image](https://user-images.githubusercontent.com/62021009/157289979-7f1bc7ea-e8e0-49d2-b878-b920d912a5a4.png)          
-File `Checkpoint.zip` cho ta 1 file `Image.jpeg` và `Final.zip` - được bảo vệ bằng mật khẩu. Như vậy, có vẻ hình ảnh này liên quan đến mật khẩu của file Final
+File `Checkpoint.zip` cho ta 1 file `Image.jpeg` và `Final.zip` - được bảo vệ bằng mật khẩu. Như vậy, có vẻ hình ảnh này liên quan đến mật khẩu của file Final                 
 ![image](https://user-images.githubusercontent.com/62021009/157290505-1234f2e4-ffba-4dd5-92d5-c443119b76d4.png)         
 Ta tiến hành `exiftool` file image thì ta được
 ```
