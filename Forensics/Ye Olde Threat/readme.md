@@ -32,8 +32,7 @@ DECIMAL       HEXADECIMAL     DESCRIPTION
 41057         0xA061          Raw signature (IDAT)
 49261         0xC06D          Raw signature (IDAT)
 ```
-### Flag
-`p_ctf{K@nye_w@nt5_To_Buy_Th3_3n71r3_E4rth}`
+
 Địa chỉ ở đây sẽ bắt đầu từ Chunk type, cái ta cần tính chính là độ dài của chunk data. Như vậy độ dài của chunk IDAT thứ hai chính là: `0x403D - 8 - 0x2035 = 0x2000`     
 Như vậy ta sẽ sửa length nằm ở byte 0x202E - 0x2031 thành 00 00 20 00     
 Sau khi sửa lại, dùng `pngcheck` để kiểm tra       
@@ -71,3 +70,5 @@ No errors detected in Just_A_Plane_Image.png (9 chunks, 89.8% compression).
 Và như vậy, chúng ta đã có thể mở được file png này.
 Sử dụng `stegsolve` ta được flag :>    
 ![image](https://user-images.githubusercontent.com/62021009/157287495-09070f8f-da5d-4d41-a1be-e75f4e236aa0.png)
+### Flag
+`p_ctf{K@nye_w@nt5_To_Buy_Th3_3n71r3_E4rth}`
