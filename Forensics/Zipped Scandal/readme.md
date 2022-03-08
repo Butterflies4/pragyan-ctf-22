@@ -3,7 +3,7 @@
 > With the disappearance of the spider menace, John Jonah Jameson needs an alternative story to report on. One of his informants in the Midwest claims to have uncovered a scandal worth reporting on. Help JJJ reveal the hidden headline.               
 > P.S. The entire flag is in lowercase and is of the format p_ctf{...}
 
-File
+File [Aa.zip](https://github.com/Butterflies4/pragyan-ctf-22/edit/main/Forensics/Zipped%20Scandal/Aa.zip)
 ## Solution
 Chúng ta nhận được 1 file zip, và file zip này được nén bởi rất, rất nhiều lần. Như vậy, để có thể giải nén được, mình sử dụng code sau
 ```bash
