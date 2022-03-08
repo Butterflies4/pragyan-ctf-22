@@ -74,5 +74,5 @@ Sử dụng `stegsolve` ta được flag :>
 `p_ctf{K@nye_w@nt5_To_Buy_Th3_3n71r3_E4rth}`
 ## Reference
 https://0x90p0wned.wordpress.com/category/capturetheflag/          
-[Not able to read IHDR chunk of a PNG file](https://stackoverflow.com/questions/54845745/not-able-to-read-ihdr-chunk-of-a-png-file)
+[Not able to read IHDR chunk of a PNG file](https://stackoverflow.com/questions/54845745/not-able-to-read-ihdr-chunk-of-a-png-file)            
 [GCK'S FILE SIGNATURES TABLE](https://www.garykessler.net/library/file_sigs.html)
