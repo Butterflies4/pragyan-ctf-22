@@ -25,7 +25,7 @@
     
         _0xd4d0[304] = 'var _0xfd39=["securesite","length","charCodeAt","You have your answer","log"];var DontChange=[66,-19,-20,36,-38,-65,6,-13,-74,-114];var user=_0xfd39[0];var YourAnswer=[0,0,0,0,0,0,0,0,0,0];for(var i=0;i< DontChange[_0xfd39[1]];i++){if((DontChange[i]+ YourAnswer[i]+ i* 10)!== user[_0xfd39[2]](i)){break};if(i=== DontChange[_0xfd39[1]]- 1){console[_0xfd39[4]](_0xfd39[3])}}'
 
-- hint là một mảng gồm nhiều chuỗi hex
+- hint là một mảng gồm nhiều chuỗi base64
 ![hình 3](./image/6.png)
 
 - Decode base 64 ta nhận được một phần của flag: 
